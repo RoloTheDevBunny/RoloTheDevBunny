@@ -1,14 +1,5 @@
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoloTheDevBunny&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/RoloTheDevBunny)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoloTheDevBunny&layout=compact&theme=dark&hide_border=true)](https://github.com/RoloTheDevBunny)
-
-</div>
-
----
-
 ## 🔫 [water-assassins](https://github.com/RoloTheDevBunny/water-assassins) — full-stack web app for a live team-elimination game
-
+https://www.ahswaterassassins.com/
 | metric | value |
 |---|---|
 | commits | **142** |
@@ -58,25 +49,17 @@
 
 ---
 
-## 🎮 [Cloud-Catcher](https://github.com/RoloTheDevBunny/Cloud-Catcher)
-
-| metric | value |
-|---|---|
-| created | Sep 2024 |
-| input | left / right arrow keys |
-| objective | catch falling clouds with a cone |
-
----
-
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </div>
 
