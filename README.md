@@ -31,7 +31,7 @@ https://www.ahswaterassassins.com/
 | prod dependencies | **14** | next · react · react-dom · @supabase/supabase-js · @supabase/ssr · @supabase/auth-helpers-nextjs · mailgun.js · @datadog/browser-logs · @datadog/browser-rum · framer-motion · @heroicons/react · dotenv · form-data · jest |
 | npm scripts | **7** | `dev` `build` `start` `test` `test:coverage` `lint` `lint:fix` |
 
-### Features shipped ✅
+### Features
 
 | feature | status |
 |---|---|
