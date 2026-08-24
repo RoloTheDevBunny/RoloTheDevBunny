@@ -9,46 +9,6 @@ https://www.ahswaterassassins.com/
 | stars | ⭐ **2** |
 | primary language | **TypeScript** |
 
-### Stack
-
-| layer | tech |
-|---|---|
-| framework | Next.js **15** |
-| ui | React **19** · Tailwind CSS **4** · Framer Motion **12** |
-| auth | Supabase Auth + OAuth · **3** providers (Google, Facebook, Twitter) |
-| database | Supabase (PostgreSQL) |
-| payments | Stripe · webhooks · billing portal · free trials |
-| email | Mailgun |
-| monitoring | Datadog RUM + Logs |
-
-### App surface
-
-| type | count | names |
-|---|---|---|
-| frontend routes | **8** | `/` `/register` `/dashboard` `/dashboard/targets` `/dashboard/team` `/dashboard/settings` `/payment` `/rules` |
-| API route groups | **4** | `auth` `me` `session` `user` |
-| React components | **17** | BackLink · Button · FooterAuthScreen · HomeClient · Input · InviteList · Modal · Navbar · OAuth · SettingsOptions · SignOutButton · Spinner · TargetList · TeamManager · TeamRequestForm · Toast · Toggle |
-| prod dependencies | **14** | next · react · react-dom · @supabase/supabase-js · @supabase/ssr · @supabase/auth-helpers-nextjs · mailgun.js · @datadog/browser-logs · @datadog/browser-rum · framer-motion · @heroicons/react · dotenv · form-data · jest |
-| npm scripts | **7** | `dev` `build` `start` `test` `test:coverage` `lint` `lint:fix` |
-
-### Features
-
-| feature | status |
-|---|---|
-| OAuth (Google · Facebook · Twitter) | ✅ |
-| Team management + invites | ✅ |
-| Target assignment list | ✅ |
-| Stripe billing + billing portal | ✅ |
-| Stripe free trial periods | ✅ |
-| Stripe webhooks | ✅ |
-| Transactional email (Mailgun) | ✅ |
-| Domain-restricted OAuth sign-in | ✅ |
-| Personalized dashboard (self-highlight) | ✅ |
-| Responsive design + mobile nav | ✅ |
-| RLS-aware Supabase middleware | ✅ |
-
----
-
 <div align="center">
 
 <div align="center">
